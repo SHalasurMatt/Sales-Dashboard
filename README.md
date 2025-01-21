@@ -28,5 +28,5 @@ Track sales seasonality and align marketing strategies with peak sales periods.
 Tableau for data visualization and interactive dashboards.
 
 
-### For an interactive dashbaord:
-https://public.tableau.com/app/profile/sanjana.patel.hm/viz/SalesDashboard_17280734381440/SalesDashboard
+### For an interactive dashboard: 
+[Tableau Public dashbaord](https://public.tableau.com/app/profile/sanjana.patel.hm/viz/SalesDashboard_17280734381440/SalesDashboard)
